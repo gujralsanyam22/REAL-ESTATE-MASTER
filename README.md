@@ -9,7 +9,6 @@ As part of their business, they try to predict the fair transaction price of a p
 They do so to calibrate their internal pricing models and keep a pulse on the market.
 
 
-
 1.2 Problem Statement:
 
 The REIT has hired us to find a data-driven approach to valuing properties.
@@ -19,13 +18,11 @@ The data was collected in 2016.
 Our task is to build a real-estate pricing model using that dataset.
 If we can build a model to predict transaction prices with an average error of under US Dollars 70,000, then our client will be very satisfied with the our resultant model.
 
-
 1.3 BUSINESS OBJECTIVES AND CONSTRAINTS :
    Deliverable: Trained model file
   Win condition: Avg. prediction error < $70,000
   Model Interpretability will be useful
    No latency requirement .
-   
    
    2. Machine Learning Problem :
     2.1 Data Overview:
